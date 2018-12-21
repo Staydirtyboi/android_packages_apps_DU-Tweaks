@@ -316,5 +316,6 @@
     <string name="action_volume_panel">Volume panel</string>
     <string name="action_kill_app">Kill app</string>
     <string name="action_screen_off">Screen off</string>
+    <string name="action_notifications">Notifications</string>
 
 </resources>
